@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
   spec.name         = "openssl"
-  spec.version      = "0.0.1"
+  spec.version      = "1.1.1"
   spec.summary      = "A short description of openssl."
   spec.description  = <<-DESC
-A short description of openssl.
+Base openssl version 1_1_1a.
                    DESC
   spec.homepage     = "http://EXAMPLE/openssl"
   spec.license      = "MIT"
